@@ -11,16 +11,11 @@ A single paged website containing information about me and links to work I've do
 The Github repository has an active Github pages link.
 
 ## Usage
+Simply has links in the top right in desktop and in column when using tablet or mobile. The links take you to the respective section of the page. The resume will contain a resume when I've made one. The links in the contact section at the bottom take you to My Github and my LinkedIn page. The cards in the work section don't yet lead anywhere but they will when I've completed some apps.
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
- ![alt text](assets/images/Screen Shot 2022-06-27 at 1.16.46 PM.png "Description goes here")
+ ![alt text](assets/images/Screen%20Shot%202022-06-27%20at%201.16.46%20PM.png)
     
-    
-    
- ![alt text](assets/images/Screen Shot 2022-06-27 at 1.16.52 PM.png "Description goes here")
+ ![alt text](assets/images/Screen%20Shot%202022-06-27%20at%201.16.52%20PM.png "Description goes here")
    
 
 ## Credits
