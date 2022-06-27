@@ -9,6 +9,7 @@ A single paged website containing information about me and links to work I've do
 ## Installation
 
 The Github repository has an active Github pages link.
+https://nuglah.github.io/myportfolio/
 
 ## Usage
 Simply has links in the top right in desktop and in column when using tablet or mobile. The links take you to the respective section of the page. The resume will contain a resume when I've made one. The links in the contact section at the bottom take you to My Github and my LinkedIn page. The cards in the work section don't yet lead anywhere but they will when I've completed some apps.
