@@ -24,7 +24,6 @@ header {
 }
 
 h1 {
-  /* background-color: #34568b; */
   left: auto;
   align-self: end;
   left: 1;
@@ -64,24 +63,14 @@ main {
 /* edits avatar */
 .hero img {
   height: 50%;
-  /* float: left; */
   align-self: center;
   justify-self: center;
-  /* position: absolute; */
-  /* bottom: 70%; */
-  /* left: 20%; */
   border-radius: 50%;
   filter: grayscale(100%);
   border: rgb(187 156 252) solid;
   margin-left: auto;
   margin-right: auto;
 }
-
-/* #subtitle {
-  background-color: lightblue;
-  align-self: flex-end;
-  margin-left: auto;
-} */
 
 /* Format for the three sections headers and the content */
 .about {
@@ -101,6 +90,7 @@ main {
   color: lightblue;
 }
 
+/* Formats paragraph text */
 .about .text {
   display: flex;
   justify-content: flex-end;
@@ -196,6 +186,7 @@ main {
   color: lightblue;
 }
 
+/* Formats bottom contact links */
 .contact a {
   color: lightblue;
   text-decoration: none;
