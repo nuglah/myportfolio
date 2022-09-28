@@ -125,7 +125,7 @@ main {
 /* Creates the large card for the applications */
 .app1 {
   display: flex;
-  background-image: url("IMG_2618.jpeg");
+  background-image: url("./assets/images/project1.png");
   flex-basis: 10%;
   height: 600px;
   background-size: cover;
@@ -156,7 +156,7 @@ main {
   flex-direction: column;
   flex-basis: 100%;
   flex: 1;
-  background-image: url("film_pixarweek_42.jpeg");
+  background-image: url("./assets/images/project2.png");
   height: 100px;
   background-size: cover;
   background-position: center;
